@@ -1,1 +1,1 @@
-# Anime-Pic-Generator-
+# Anime-Pic-Generator
